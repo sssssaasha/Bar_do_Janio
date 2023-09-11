@@ -10,4 +10,6 @@ from models.payment import Payment
 from models.product import Product
 from models.role import Role
 from models.sale import Sale
-from models.method_of_payment import Method_Of_Payment
+from models.method_of_payment import MethodOfPayment
+from models.order_has_product import OrderHasProduct
+from models.billing_has_method_of_payment import BillingHasMethodOfPayment
