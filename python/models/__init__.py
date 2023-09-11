@@ -2,3 +2,12 @@ from models.base import Base
 from models.bar import Bar
 from models.person import Person
 from models.customer import Customer
+from models.billing import Billing
+from models.employee import Employee
+from models.evaluation import Evaluation
+from models.order import Order
+from models.payment import Payment
+from models.product import Product
+from models.role import Role
+from models.sale import Sale
+from models.method_of_payment import Method_Of_Payment
